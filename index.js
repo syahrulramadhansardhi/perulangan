@@ -1,1 +1,1 @@
-const nama 'syahrul'
+const nomor = 1
